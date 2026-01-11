@@ -1,7 +1,7 @@
 # STM32 Debug & Test Helper
 
 ![Build](https://img.shields.io/badge/build-manual-lightgrey)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/arttynedaiko7-br32/STM32-Debug-Test-Helper/blob/main/LICENSE)
 ![MCU](https://img.shields.io/badge/MCU-STM32F103C8T6-green)
 ![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-blue)
 ![Framework](https://img.shields.io/badge/Framework-STM32_HAL-orange)
