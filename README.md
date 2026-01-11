@@ -102,7 +102,7 @@ Feel free to open an issue or submit a pull request.
 
 If you have questions, ideas, or feedback:
 
-Email: your_email@example.com
+Email: daineko.a32@mail.ru
 
 ---
 
