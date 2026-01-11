@@ -1,0 +1,22 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# Eclipse / STM32CubeIDE
+.metadata/
+.settings/
+.project
+.cproject
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*.swp

@@ -1,0 +1,19 @@
+SWV ITM Data Console - ITM Port: 0
+
+Time testEqual:  0.414083 ms  
+ testEqual - OK!  
+Time testGreate:  0.245486 ms  
+ testGreate - OK!  
+Time testLess:  0.245778 ms  
+ testLess - OK!  
+All tests:  3.402361 ms  
+ Time foo:  194.579514 ms  
+ Time buz:  0.010986 ms  
+ Time testEqual:  0.412333 ms  
+ testEqual - OK!  
+Time testGreate:  0.243667 ms  
+ testGreate - OK!  
+Time testLess:  0.246431 ms  
+ testLess - OK!  
+All tests:  3.356431 ms  
+ Main:  203.237030 ms  
