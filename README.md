@@ -214,4 +214,3 @@ GNU General Public License v3.0 (GPL-3.0).
 If you use this code in firmware distributed on a device,
 you are required to make the corresponding source code available
 under the terms of the GPL v3.
-```
